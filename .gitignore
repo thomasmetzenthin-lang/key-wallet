@@ -1,7 +1,13 @@
-*.exe
-key-wallet
-key-wallet-desktop
+﻿# Ignore compiled binaries in root
+/*.exe
+/key-wallet
+/key-wallet-desktop
+
+# Environment & editor configs
 *.env
 *.key
 .idea/
 .vscode/
+
+# Private local development vault
+.dev_archive/
