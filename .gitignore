@@ -1,0 +1,7 @@
+*.exe
+key-wallet
+key-wallet-desktop
+*.env
+*.key
+.idea/
+.vscode/
